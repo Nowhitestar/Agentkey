@@ -374,3 +374,7 @@ Early access. There are rough edges and we appreciate your patience. Feature req
 ---
 
 [![Star History Chart](https://api.star-history.com/svg?repos=chainbase-labs/agentkey&type=Date)](https://www.star-history.com/?repos=chainbase-labs%2Fagentkey&type=date&legend=top-left)
+
+## Download History
+
+[![Download History](https://skill-history.com/chart/nowhitestar/agentkey.svg)](https://skill-history.com/nowhitestar/agentkey)
